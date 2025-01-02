@@ -76,10 +76,7 @@ const handleDelete = (id) => {
                         <div className="row align-items-center">
                         <div className="col-md-3 mb-3">
                             <label htmlFor="status" className="form-label">
-                            ASHVINI 
-                            DEMO NAME 
-                            
-                                                    </label>
+                          MY NAME ASHVINI</label>
                             <input
                             type="text"
                             className="form-control"
