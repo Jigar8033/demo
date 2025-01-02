@@ -50,7 +50,7 @@ const handleDelete = (id) => {
     }
 };
   return (
-    <div className="main-content">
+    <div className="main-content abc">
       <div className="page-content">
       <div className="container-fluid">
               
