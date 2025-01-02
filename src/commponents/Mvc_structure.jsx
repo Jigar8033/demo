@@ -76,7 +76,7 @@ const handleDelete = (id) => {
                         <div className="row align-items-center">
                         <div className="col-md-3 mb-3">
                             <label htmlFor="status" className="form-label">
-                            Status
+                            neha status 
                             </label>
                             <input
                             type="text"
