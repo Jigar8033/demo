@@ -87,7 +87,7 @@ const handleDelete = (id) => {
                         </div>
                         <div className="col-md-3 mb-3">
                             <label htmlFor="initiatorName" className="form-label">
-                            Initiator Name
+                            jigar ashvini Name
                             </label>
                             <select
                             className="form-select"
